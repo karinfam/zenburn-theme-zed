@@ -1,0 +1,7 @@
+id = "zenburn"
+name = "Zenburn Theme"
+version = "0.1.0"
+authors = ["Karin Fam <karinfam@outlook.com>"]
+description = "Zenburn | Just some alien fruit salad to keep you in the zone"
+repository = "https://github.com/karinfam/zenburn-theme-zed"
+schema_version = 1
